@@ -8,11 +8,13 @@ d2
 d3
 
 Implementation:
-Google Colab: https://colab.research.google.com/
-g1
+Google Colab: 
 
-Iris Data Set: https://github.com/divyapandey03/Machine-Learning/blob/main/Supervised%20Learning/KNN%20%2B%20Confusion%20Matrix%20%2B%20Iris%20Data%20set%20%2B%20Colab/Iris_data.csv
-Execute iris_knn.ipynb: https://github.com/divyapandey03/Machine-Learning/blob/main/Supervised%20Learning/KNN%20%2B%20Confusion%20Matrix%20%2B%20Iris%20Data%20set%20%2B%20Colab/iris_knn.ipynb
+[https://colab.research.google.com/
+g1](https://colab.research.google.com/drive/1eshNs7h3B7Hd9EQcACsN0c3CiiX5Sh3u?usp=sharing)
+
+Iris Data Set in this directory
+
 Output:
 
 Confusion Matrix for Iris Data set
