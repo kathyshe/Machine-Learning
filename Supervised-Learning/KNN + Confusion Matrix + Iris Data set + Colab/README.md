@@ -14,7 +14,7 @@ g1
 Iris Data Set: https://github.com/divyapandey03/Machine-Learning/blob/main/Supervised%20Learning/KNN%20%2B%20Confusion%20Matrix%20%2B%20Iris%20Data%20set%20%2B%20Colab/Iris_data.csv
 Execute iris_knn.ipynb: https://github.com/divyapandey03/Machine-Learning/blob/main/Supervised%20Learning/KNN%20%2B%20Confusion%20Matrix%20%2B%20Iris%20Data%20set%20%2B%20Colab/iris_knn.ipynb
 Output:
-g2
 
 Confusion Matrix for Iris Data set
-g3
+
+![confusion-matrix-output](https://user-images.githubusercontent.com/113223572/218916872-f737f685-6331-417c-8f6d-2b4bbb8b0bfd.JPG)
