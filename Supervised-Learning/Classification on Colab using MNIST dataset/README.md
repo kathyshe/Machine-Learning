@@ -28,14 +28,17 @@ Google Colab provides free access to a Jupyter Notebook and a small version of t
 https://colab.research.google.com/drive/1nhHVH-gTQnfi3rv7ZS-mjmm8y8Za7uqo?usp=sharing
 
 
-Execute classification.ipynb: https://github.com/divyapandey03/Machine-Learning/blob/main/Supervised%20Learning/Classification%20on%20Colab%20using%20MNIST%20dataset/classification.ipynb
+Execute classification.ipynb: 
+
+[https://github.com/divyapandey03/Machine-Learning/blob/main/Supervised%20Learning/Classification%20on%20Colab%20using%20MNIST%20dataset/classification.ipynb](https://github.com/kathyshe/Machine-Learning/blob/main/Supervised-Learning/Classification%20on%20Colab%20using%20MNIST%20dataset/03_classification.ipynb)
 
 
 **Output:**
+
+![output1](https://user-images.githubusercontent.com/113223572/218920690-eb9c25da-1b8d-47d3-85eb-b9f4a6402ee4.JPG)
 
 ![output2](https://user-images.githubusercontent.com/113223572/218920684-0518c2b2-da33-4dc0-b732-b5a1bc11bbf8.JPG)
 
 ![output3](https://user-images.githubusercontent.com/113223572/218920688-6c397efc-257b-4e0c-801a-73012934bd13.JPG)
 
-![output1](https://user-images.githubusercontent.com/113223572/218920690-eb9c25da-1b8d-47d3-85eb-b9f4a6402ee4.JPG)
 
